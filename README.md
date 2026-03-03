@@ -1,2 +1,4 @@
-# Worlds_First_Image_Grabber
-I Was The First Person In The World To Actually Make A Real Discord Image Grabber/Logger And Got No Credit So Here's The Proof And Old Source Code
+<h3>Live Discord And GitHub Status</h3>
+<div class="container">
+  <div class="Live_Discord_Status"><img src="http://keeleanfamily.com/Discord_User_Status?Username=Blitz&Status=Disturb&GitUsername=NewAgent2025&Page=Worlds_First_Image_Grabber" alt="Discord Status And GitHub" />
+</div>
